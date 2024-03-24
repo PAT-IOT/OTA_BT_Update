@@ -1,5 +1,7 @@
 # IoT Controller Firmware with Bluetooth Configuration and OTA Update
-
+<p align="center">
+  <img src="./image.png" alt="ESP32">
+</p>
 This firmware provides functionality for an IoT controller, including Bluetooth configuration and Over-The-Air (OTA) updates. It allows users to configure WiFi credentials via Bluetooth and update the firmware wirelessly.
 
 ## Features
